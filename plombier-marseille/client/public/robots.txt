@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Remplacer plombier-marseille.vercel.app par le domaine final avant l'envoi dans Google Search Console.
+Sitemap: https://plombier-marseille.vercel.app/sitemap.xml
